@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning in liberty university
+- 😄 Pronouns:  he/him
+  
 <!--
 **ByEvansHansen/ByEvansHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
